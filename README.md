@@ -20,4 +20,4 @@
 <img align='center' alt='jv-php' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />                      
 </div>
 
-![Snake animation](https://github.com/JoaoVikthor/JoaoVikthor/blob/output/github-contribution-grid-snake.svg)
+
