@@ -2,7 +2,7 @@
 ## Hello There ![image](https://github.com/JoaoVikthor/JoaoVikthor/assets/15915781/32eb465f-c4f8-41ff-9d0c-958919bc59a8)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVikthor&show_icons=true&bg_color=00000000)
+![JoaoVikthor GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVikthor&show_icons=true&bg_color=00000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVikthor&hide_progress=true)
 
 <div> 
