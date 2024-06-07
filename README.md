@@ -2,8 +2,11 @@
 ## Hello There ![image](https://github.com/JoaoVikthor/JoaoVikthor/assets/15915781/32eb465f-c4f8-41ff-9d0c-958919bc59a8)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVikthor&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVikthor&hide_progress=true)
+<div align="center">
+<a href="https://github.com/JoaoVikthor">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVikthor&show_icons=true&theme=dracula&include_all_commits
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVikthor&layout=compact&langs_count=7&theme=dra
+</div>
 
 <div> 
   <a href="https://www.instagram.com/vikthor_oficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
@@ -20,4 +23,4 @@
 <img align='center' alt='jv-php' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />                      
 </div>
 
-
+![Snake animation](https://github.com/DevBatista1/DevBatista1/blob/output/github-contribution-grid-snake.svg)
