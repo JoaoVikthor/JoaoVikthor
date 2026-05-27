@@ -17,6 +17,10 @@
 <img align='center' alt='jv-php' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align='center' alt='jv-php' height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img  align='center' alt='jv-php' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img align='center' alt='jv-php' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />                      
+<img align='center' alt='jv-php' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img src="https://devicon-website.vercel.app/api/dart/original-wordmark.svg"></img>
+<img src="https://devicon-website.vercel.app/api/flutter/original.svg"></img>
+<img src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg"></img>
+
 </div>
 
