@@ -21,7 +21,7 @@
 <img align='center' alt='jv-php' height='30' width='40' src="https://devicon-website.vercel.app/api/dart/original.svg"></img>
 <img align='center' alt='jv-php' height='30' width='40' src="https://devicon-website.vercel.app/api/flutter/original.svg"></img>
 <img align='center' alt='jv-php' height='30' width='40' src="https://devicon-website.vercel.app/api/postgresql/original.svg"></img>
-<div class="tenor-gif-embed" data-postid="13422167952658823729" data-share-method="host" data-aspect-ratio="0.706827" data-width="100%"><a href="https://tenor.com/view/osaka-spin-azumanga-daioh-azumanga-anime-gif-13422167952658823729">Osaka Spin GIF</a>from <a href="https://tenor.com/search/osaka-gifs">Osaka GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 </div>
 
