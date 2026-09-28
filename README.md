@@ -41,4 +41,5 @@
 ### 📈 Estatística 
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=JoaoVikthor)](https://github.com/stats-organization/github-stats-extended)
+<br>
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JoaoVikthor&langs_count=4&hide_values=true&theme=discord_old_blurple)](https://github-stats-extended.vercel.app/api/top-langs?username=JoaoVikthor&langs_count=4&hide_values=true&theme=discord_old_blurple)
