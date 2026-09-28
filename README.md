@@ -4,7 +4,7 @@
 
 # Eu sou o Vikthor 
 
-**Estudante de ADS no IFPI** and **Enfermeiro **
+**Estudante de ADS no IFPI** and Enfermeiro
 
 ---
 
@@ -13,7 +13,7 @@
 -  Parnaíba - PI | 30 anos
 -  Cursando **Análise e Desenvolvimento de Sistemas** no **Instituto Federal do Piauí (IFPI)**
 -  Formado e pós-graduado em Enfermagem
--  Migrando da área da saúde com tecnologia e desenvolvimento de software
+-  Migrando da área da saúde para a tecnologia e desenvolvimento
 -  Focado resolver problemas
 
 ---
