@@ -1,9 +1,10 @@
 
 ## Hello There ![image](https://github.com/JoaoVikthor/JoaoVikthor/assets/15915781/32eb465f-c4f8-41ff-9d0c-958919bc59a8)
-** Desenvolvedor FullStack **
-# Olá, eu sou o Vikthor 👋
+***Desenvolvedor FullStack***
 
-🎓 **Estudante de ADS no IFPI** E 🩺 **Enfermeiro **
+# Eu sou o Vikthor 👋
+
+🎓 **Estudante de ADS no IFPI** and 🩺 **Enfermeiro **
 
 ---
 
