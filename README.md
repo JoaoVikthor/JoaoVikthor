@@ -2,29 +2,29 @@
 ## Hello There ![image](https://github.com/JoaoVikthor/JoaoVikthor/assets/15915781/32eb465f-c4f8-41ff-9d0c-958919bc59a8)
 ***Desenvolvedor FullStack***
 
-# Eu sou o Vikthor 👋
+# Eu sou o Vikthor 
 
-🎓 **Estudante de ADS no IFPI** and 🩺 **Enfermeiro **
+**Estudante de ADS no IFPI** and **Enfermeiro **
 
 ---
 
 ### 🚀 Sobre Mim
 
-- 📍 Parnaíba - PI | 30 anos
-- 📚 Cursando **Análise e Desenvolvimento de Sistemas** no **Instituto Federal do Piauí (IFPI)**
-- 🩺 Formado e pós-graduado em Enfermagem
-- 💻 Migrando da área da saúde com tecnologia e desenvolvimento de software
-- 🎯 Focado resolver problemas
+-  Parnaíba - PI | 30 anos
+-  Cursando **Análise e Desenvolvimento de Sistemas** no **Instituto Federal do Piauí (IFPI)**
+-  Formado e pós-graduado em Enfermagem
+-  Migrando da área da saúde com tecnologia e desenvolvimento de software
+-  Focado resolver problemas
 
 ---
 
-### 🌐 Conecte-se Comigo
+###  Conecte-se Comigo
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikthoroficial)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoVikthor)
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.vikthor@gmail.com)
 
- ### 🤖 Linguagens e Tecnologia 
+ ###  Linguagens e Tecnologia 
 <div style='display: inline_block'>
 <img align='center' alt='jv-php' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align='center' alt='jv-php' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
