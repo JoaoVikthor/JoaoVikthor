@@ -6,9 +6,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVikthor)](https://github.com/JoaoVikthor/github-readme-stats)
 
 <div> 
-  <a href="https://www.instagram.com/vikthor_oficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:dev.joao.victor@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vikthoroficial/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <div style="width: 200px;">
+<a href="https://github.com/SeuPerfilAqui/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuPerfilAqui&langs_count=8" alt="Top Langs" />
+</a>
+</div>
 </div>
 
 <div style='display: inline_block'>
